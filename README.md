@@ -22,20 +22,6 @@ Analysis of 10,000+ corporate financial transactions from 2021–2023, evaluatin
 
 ![FP&A Actual vs Budget Dashboard](FP-A_Analysis_Dashboard.png)
 
-## Analysis
-
-### Budget vs Actual
-Explain what you analyzed.
-
-### Variance Analysis
-Explain department, category and regional analysis.
-
-### Forecasting
-Explain the September YTD methodology.
-
-### Scenario Analysis
-Explain the -5%, Base and +5% Q4 scenarios.
-
 ## Files
 
 - `FP&A_Budget_Variance_Analysis.xlsx` — Complete Excel analysis and dashboard
